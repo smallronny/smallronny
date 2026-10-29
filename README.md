@@ -51,7 +51,7 @@ Como desarrollador autodidacta y apasionado por la tecnología, mantengo mi perf
 
 | Proyecto | Rol / Tipo | Descripción & Impacto | Stack Principal |
 | :--- | :--- | :--- | :--- |
-| <a href="https://yobusco.pe" target="_blank" rel="noopener noreferrer">**Yobusco**</a> | Lead Frontend | Plataforma inmobiliaria integral. Liderazgo de arquitectura frontend, integración de flujos de búsqueda/alquiler, SEO técnico y despliegue en AWS. | `Angular (SSR)`, `Tailwind`, `NestJS`, `AWS`, `MySQL` |
+| **Yobusco.pe** | Lead Frontend | Plataforma inmobiliaria integral. Liderazgo de arquitectura frontend, integración de flujos de búsqueda/alquiler, SEO técnico y despliegue en AWS. | `Angular (SSR)`, `Tailwind`, `NestJS`, `AWS`, `MySQL` |
 | **Proyectos Enterprise (Webtilia)** | Frontend Developer | Desarrollo y despliegue de soluciones e-commerce y corporativas para marcas líderes como Vainsa Innova, Inkatops, Aceros Arequipa, SKF. | `VTEX IO`, `Vue.js`, `Angular`, `Laravel`, `PrestaShop`, `Shopify`, `Wordpress` |
 | **Plataformas E-commerce Custom (LM Marketing)** | Web Master & Lead | Gestión, migración y desarrollo de e-commerce a medida con administración de servidores dedicados cloud/WHM. | `Wordpress`, `WooCommerce`, `Vue.js`, `Shopify`, `PrestaShop`, `WHM/cPanel`, `Nginx`, `Cloudflare` |
 
