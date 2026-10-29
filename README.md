@@ -3,7 +3,7 @@
 ### 🚀 Ingeniero de Sistemas & Desarrollador Frontend Senior (+8 años)
 **Líder de Proyectos Web | Especialista en Angular, Vue.js, E-Commerce y Cloud Solutions**
 
-📍 Morón, Carabobo, Venezuela | 💼 Abierto a oportunidades remotas
+📍 Venezuela | 💼 Abierto a oportunidades remotas
 
 ---
 
@@ -51,17 +51,8 @@
 | Proyecto | Rol / Tipo | Descripción & Impacto | Stack Principal |
 | :--- | :--- | :--- | :--- |
 | **[Yobusco.pe](https://yobusco.pe)** | Lead Frontend | Plataforma inmobiliaria integral. Liderazgo de arquitectura frontend, integración de flujos de búsqueda/alquiler, SEO técnico y despliegue en AWS. | `Angular (SSR)`, `Tailwind`, `NestJS`, `AWS`, `MySQL` |
-| **Proyectos Enterprise (Webtilia)** | Frontend Developer | Desarrollo y despliegue de soluciones e-commerce y corporativas para marcas líderes como Vainsa Innova, Inkatops, Aceros Arequipa, SKF. | `VTEX IO`, `Vue.js`, `Angular`, `Laravel`, `PrestaShop` |
-| **Plataformas E-commerce Custom (LM Marketing)** | Web Master & Lead | Gestión, migración y desarrollo de e-commerce a medida con administración de servidores dedicados cloud/WHM. | `Vue.js`, `Shopify`, `PrestaShop`, `WHM/cPanel` |
-
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smallronny&show_icons=true&theme=radial&hide_border=true" alt="Estadísticas de GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallronny06&layout=compact&theme=radial&hide_border=true" alt="Lenguajes más usados" height="150"/>
-</p>
+| **Proyectos Enterprise (Webtilia)** | Frontend Developer | Desarrollo y despliegue de soluciones e-commerce y corporativas para marcas líderes como Vainsa Innova, Inkatops, Aceros Arequipa, SKF. | `VTEX IO`, `Vue.js`, `Angular`, `Laravel`, `PrestaShop`, `Shopify`, `Wordpress` |
+| **Plataformas E-commerce Custom (LM Marketing)** | Web Master & Lead | Gestión, migración y desarrollo de e-commerce a medida con administración de servidores dedicados cloud/WHM. | `Wordpress`, `WooCommerce`, `Vue.js`, `Shopify`, `PrestaShop`, `WHM/cPanel`, `Nginx`, `Cloudflare` |
 
 ---
 
