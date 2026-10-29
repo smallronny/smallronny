@@ -9,10 +9,11 @@
 
 ## 👨‍💻 Sobre mí
 
-* 🛠️ **+8 años de experiencia** Desarrollando, construyendo y liderando aplicaciones web de alto rendimiento y soluciones E-commerce a gran escala.
-* 🔭 Actualmente soy **Líder de Proyecto & Frontend Lead** en [Yobusco.pe](https://yobusco.pe), liderando la arquitectura SSR, optimización SEO técnico y alta disponibilidad en AWS.
-* 🏬 Amplia trayectoria optimizando y desplegando proyectos para grandes marcas (como *Vainsa Innova, Inkatops, Aceros Arequipa, SKF*) trabajando con agencias líderes como Webtilia Solutions, LMMarketing.
-* 🎯 Enfocado en la **arquitectura escalable, maquetación ágil (Tailwind/Bootstrap), optimización de rendimiento (Core Web Vitals)** y entrega de experiencias UX/UI impecables.
+Soy Ingeniero de Sistemas y Desarrollador Frontend con más de 8 años de experiencia especializado en la arquitectura y desarrollo de aplicaciones web de alto rendimiento.
+
+A lo largo de mi trayectoria, he liderado el ciclo de vida completo de plataformas web e inmobiliarias de gran envergadura (como Yobusco), así como proyectos corporativos y de e-commerce para clientes internacionales y cuentas de primer nivel (como Vainsa Innova, Aceros Arequipa y SKF) utilizando tecnologías como Angular, Vue.js, TypeScript, NestJS y soluciones en la nube con AWS.
+
+Como desarrollador autodidacta y apasionado por la tecnología, mantengo mi perfil en permanente actualización. Hoy en día impulso el desarrollo asistido por Inteligencia Artificial, aprendiendo y adoptando enfoques estratégicos como SDD (Spec-Driven Development) y ODD (Outcome-Driven Development) para refinar los procesos de arquitectura, automatización y entrega de código. Mi enfoque combina la maquetación limpia, un rendimiento web impecable (Core Web Vitals) y la escalabilidad técnica para ofrecer experiencias de usuario de alto nivel.
 
 ---
 
